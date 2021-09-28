@@ -4,18 +4,18 @@
 #### 05111940000040
 
 ## Benda
-Benda pada foto adalah Novel Wattpad yang diawali dengan huruf "N"
+Benda pada foto adalah Dadu yang diawali dengan huruf "D"
 
 ## Foto
 
 ### Depan Atas
-![291320](https://user-images.githubusercontent.com/72689610/134262790-9ef4deaa-f987-4ff4-a718-c429bc41f558.jpg)
+![300443](https://user-images.githubusercontent.com/72689610/135107162-1b57f6c0-e39b-4e37-931e-4cc24d697374.jpg)
 
 ### Belakang Atas
-![291321](https://user-images.githubusercontent.com/72689610/134262835-8e26a7da-27ee-42f6-a5a8-2f6ca9511121.jpg)
+![300444](https://user-images.githubusercontent.com/72689610/135107301-52f1ad04-a0df-4a1c-bfba-e20ce760f9e0.jpg)
 
 ### Kanan Atas
-![291322](https://user-images.githubusercontent.com/72689610/134262881-e79ec3df-db32-45ad-84ad-d697f58b4cf1.jpg)
+![300445](https://user-images.githubusercontent.com/72689610/135107391-e19aa1c7-52b8-465b-b713-5eb26aa14cf7.jpg)
 
 ### Kiri Atas
-![291323](https://user-images.githubusercontent.com/72689610/134262918-d1e4fcd6-9747-4018-a178-c5784d34a640.jpg)
+![300446](https://user-images.githubusercontent.com/72689610/135107475-1d56c03c-c456-44a5-82c2-837d82eb7e72.jpg)
