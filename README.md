@@ -4,18 +4,18 @@
 #### 05111940000040
 
 ## Benda
-Benda pada foto adalah Dadu yang diawali dengan huruf "D"
+Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 
 ## Foto
 
 ### Depan Atas
-![300443](https://user-images.githubusercontent.com/72689610/135107162-1b57f6c0-e39b-4e37-931e-4cc24d697374.jpg)
+![309934](https://user-images.githubusercontent.com/72689610/135843847-fba1440f-5da7-4556-98d1-edbf824fe136.jpg)
 
 ### Belakang Atas
-![300444](https://user-images.githubusercontent.com/72689610/135107301-52f1ad04-a0df-4a1c-bfba-e20ce760f9e0.jpg)
+![309936](https://user-images.githubusercontent.com/72689610/135843902-84cd51a4-8a1a-477c-ac23-48f18b3d329a.jpg)
 
 ### Kanan Atas
-![300445](https://user-images.githubusercontent.com/72689610/135107391-e19aa1c7-52b8-465b-b713-5eb26aa14cf7.jpg)
+![309937](https://user-images.githubusercontent.com/72689610/135843954-4fe51c11-3336-4d55-b819-248a0b45aaac.jpg)
 
 ### Kiri Atas
-![300446](https://user-images.githubusercontent.com/72689610/135107475-1d56c03c-c456-44a5-82c2-837d82eb7e72.jpg)
+![309935](https://user-images.githubusercontent.com/72689610/135843966-7c439708-9ec1-4a77-8fd9-ef9946428276.jpg)
