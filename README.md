@@ -1,9 +1,11 @@
-# Tugas 1
-#### Arvel Gavrilla Raissananda
-#### 05111940000040
+# Tugas 1 - Grafika Komputer
+Arvel Gavrilla Raissananda | 05111940000040
 
 # Benda
 Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
+
+# Hasil
+![giphy](https://user-images.githubusercontent.com/72689610/136098809-391b0b2f-4303-40aa-a592-4504bcabd035.gif)
 
 # Foto
 
@@ -20,4 +22,4 @@ Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 ![309935](https://user-images.githubusercontent.com/72689610/135843966-7c439708-9ec1-4a77-8fd9-ef9946428276.jpg)
 
 # Deployment
-# https://exercise-1-drawing-with-webgl.netlify.app/
+## https://exercise-1-drawing-with-webgl.netlify.app/
