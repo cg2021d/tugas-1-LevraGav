@@ -399,14 +399,6 @@ function main() {
         ...leaf_2.point_q2, ...leaf_2.color_point_2,
         ...leaf_2.point_r2, ...leaf_2.color_point_2,
         ...leaf_2.point_s2, ...leaf_2.color_point_2,
-
-        // ...object_dioda_2.line_right_a, ...object_dioda_2.line_left_color,
-        // ...object_dioda_2.line_right_b, ...object_dioda_2.line_left_color,
-        // ...object_dioda_2.line_right_c, ...object_dioda_2.line_left_color,
-        // ...object_dioda_2.line_right_c, ...object_dioda_2.line_left_color,
-        // ...object_dioda_2.line_right_b, ...object_dioda_2.line_left_color,
-        // ...object_dioda_2.line_right_d, ...object_dioda_2.line_left_color, // 300
-
     ];
 
     var vertexBuffer = gl.createBuffer();
