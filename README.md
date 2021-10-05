@@ -8,7 +8,6 @@ Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 ![giphy](https://user-images.githubusercontent.com/72689610/136098809-391b0b2f-4303-40aa-a592-4504bcabd035.gif)
 
 # Foto
-
 ## Depan Atas
 ![309934](https://user-images.githubusercontent.com/72689610/135843847-fba1440f-5da7-4556-98d1-edbf824fe136.jpg)
 
@@ -20,6 +19,9 @@ Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 
 ## Kiri Atas
 ![309935](https://user-images.githubusercontent.com/72689610/135843966-7c439708-9ec1-4a77-8fd9-ef9946428276.jpg)
+
+# Geogebra
+## https://www.geogebra.org/geometry/fch3hebj
 
 # Deployment
 ## https://exercise-1-drawing-with-webgl.netlify.app/
