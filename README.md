@@ -2,10 +2,10 @@
 #### Arvel Gavrilla Raissananda
 #### 05111940000040
 
-## Benda
+# Benda
 Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 
-## Foto
+# Foto
 
 ## Depan Atas
 ![309934](https://user-images.githubusercontent.com/72689610/135843847-fba1440f-5da7-4556-98d1-edbf824fe136.jpg)
@@ -18,3 +18,6 @@ Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 
 ## Kiri Atas
 ![309935](https://user-images.githubusercontent.com/72689610/135843966-7c439708-9ec1-4a77-8fd9-ef9946428276.jpg)
+
+# Deployment
+# https://exercise-1-drawing-with-webgl.netlify.app/
