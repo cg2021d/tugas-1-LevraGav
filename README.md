@@ -1,5 +1,4 @@
 # Tugas 1
-
 #### Arvel Gavrilla Raissananda
 #### 05111940000040
 
@@ -8,14 +7,14 @@ Benda pada foto adalah ```Daun``` yang diawali dengan huruf "D"
 
 ## Foto
 
-### Depan Atas
+## Depan Atas
 ![309934](https://user-images.githubusercontent.com/72689610/135843847-fba1440f-5da7-4556-98d1-edbf824fe136.jpg)
 
-### Belakang Atas
+## Belakang Atas
 ![309936](https://user-images.githubusercontent.com/72689610/135843902-84cd51a4-8a1a-477c-ac23-48f18b3d329a.jpg)
 
-### Kanan Atas
+## Kanan Atas
 ![309937](https://user-images.githubusercontent.com/72689610/135843954-4fe51c11-3336-4d55-b819-248a0b45aaac.jpg)
 
-### Kiri Atas
+## Kiri Atas
 ![309935](https://user-images.githubusercontent.com/72689610/135843966-7c439708-9ec1-4a77-8fd9-ef9946428276.jpg)
