@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #04619f 74%)
+}
+
+#myCanvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  font-family: "Josefin Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  padding: 2rem 0rem;
+}
+
+h2{
+  margin-bottom: 0.5rem;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.score {
+  margin-top: 0.5rem;
+}
