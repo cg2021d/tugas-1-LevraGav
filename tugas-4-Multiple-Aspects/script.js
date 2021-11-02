@@ -112,7 +112,7 @@ function dumpObject(obj, lines = [], isLast = true, prefix = '') {
 //object gltf
 const loader = new GLTFLoader()
 loader.load('./town/scene.gltf', function(gltf){
-      gltf.scene.scale.set(1, 1, 1);
+      gltf.scene.scale.set(0.4, 0.4, 0.4);
         const root = gltf.scene;
         root.position.x = 0;
         root.position.y = -3.4;
@@ -158,8 +158,8 @@ directionalLightFolder.add(solarLight.position, 'z').min(-500).max(500).step(10)
 directionalLightFolder.add(solarLight, 'intensity').min(0).max(10).step(0.1);
 
 //fog
-const near = 20;
-const far = 50;
+const near = 15;
+const far = 20;
 const color = 'gray';
 scene.fog = new THREE.Fog(color, near, far);
 
@@ -179,8 +179,8 @@ const sphereMirror = new THREE.MeshBasicMaterial({
 });
 const sphereGeo = new THREE.SphereGeometry(3, 40 , 40);
 const mirrorBall = new THREE.Mesh( sphereGeo, sphereMirror);
-mirrorBall.position.y = 15;
-mirrorBall.position.x = 0;
+mirrorBall.position.y = 8;
+mirrorBall.position.x = -2;
 scene.add(mirrorBall);
 
 const animate = () =>
