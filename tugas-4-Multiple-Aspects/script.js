@@ -158,7 +158,7 @@ directionalLightFolder.add(solarLight.position, 'z').min(-500).max(500).step(10)
 directionalLightFolder.add(solarLight, 'intensity').min(0).max(10).step(0.1);
 
 //fog
-const near = 15;
+const near = 10;
 const far = 20;
 const color = 'gray';
 scene.fog = new THREE.Fog(color, near, far);
