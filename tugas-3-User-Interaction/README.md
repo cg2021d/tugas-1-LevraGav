@@ -5,7 +5,7 @@ Arvel Gavrilla Raissananda | 05111940000040
 Membuat application dengan menggunakan User Interaction
 
 # Hasil
-![giphy (3)](https://user-images.githubusercontent.com/72689610/137870893-8548e9c6-0441-4a4f-ade3-f4ac6911fe4f.gif)
+![tugas-3](https://user-images.githubusercontent.com/72689610/139771508-1a8d1d56-bd58-400a-a14a-cf568180b7bb.gif)
 
 # Deployment
 ## https://matching-color.netlify.app/
